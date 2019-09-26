@@ -91,6 +91,8 @@ J-1|Juego|Administrador| Crear nuevos usuarios| Aumentar mis usuarios| ...| Alta
 
 ## Planificación del ciclo
 
+Ejemplo:
+
 Producto | Pendiente | En progreso | Terminado 
 ---|---|---|---
 J-1| Página web| Nivel 1 | Login
