@@ -1,5 +1,5 @@
 # Aprende-SCRUM
-Metodología Scrum (Semana 2)
+![Trucos-para-programadores](https://dc722jrlp2zu8.cloudfront.net/media/cache/e8/a5/e8a5adef9a9c69c504ee7f4281091ece.jpg)
 
 # ¿Qué es SCRUM?
 
